@@ -11,6 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
+![JavaScript](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&Color=white&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&Color=white&logoColor=white)&nbsp;
 
