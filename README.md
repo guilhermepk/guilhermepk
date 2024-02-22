@@ -7,18 +7,19 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepk&layout=compact&hide_border=true&title_color=E8004F&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## Skills:
+### Languages: 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&Color=white&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&Color=white&logoColor=white)&nbsp;
+
 ### Back-end: 
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; 
-
 
 ### Front-end:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&Color=white&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&Color=white&logoColor=white)&nbsp;
 
 
 ### Databases:
@@ -30,7 +31,6 @@
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=0b8384)&nbsp;
 
 ### Others
-![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
 ![Arduino](https://img.shields.io/badge/arduino-038C8C?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&Color=white&logoColor=black)&nbsp;
 
