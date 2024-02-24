@@ -47,13 +47,6 @@
 ## Others
 ![Arduino](https://img.shields.io/badge/arduino-038C8C?style=for-the-badge&logo=arduino&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&Color=white&logoColor=black)
-
-
-
-<div align="center">
-<br><p style="color:ED092C" align="center"><b>Visits Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{guilhermepk}/count.svg" /></p> 
-<br></div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED092C&height=120&section=footer"/>
