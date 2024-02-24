@@ -19,16 +19,16 @@
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Databases
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/Maria%20DB-003545?style=for-the-badge&logo=mariadb)
-
 ## Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Web Design
 ![Figma](https://img.shields.io/badge/-Figma-242529?style=for-the-badge&logo=figma&logoColor=FF7262)
+
+## Databases
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/Maria%20DB-003545?style=for-the-badge&logo=mariadb)
 
 ## Game Development
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=0b8384)
