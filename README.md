@@ -20,7 +20,9 @@
 <a href="guilhermeprigolkramer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guilherme-prigol-kramer-b4a0b6275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br></br>
-<img src="https://img.shields.io/badge/guilhermeprigolkramer@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=c71610">
+<a href="mailto:guilhermeprigolkramer@gmail.com">
+<img src="https://img.shields.io/badge/guilhermeprigolkramer@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=c71610&labelColor=white">
+</a>
 </div>
 
 ## Languages
