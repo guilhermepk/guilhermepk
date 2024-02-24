@@ -7,6 +7,21 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepk&layout=compact&hide_border=true&title_color=ED092C&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+<div align ="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=guilhermepk&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+  </a>
+  <br></br>
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilhermepk&&bg_color=0d1117&color=ED092C&line=ED092C&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+<a href="guilhermeprigolkramer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guilherme-prigol-kramer-b4a0b6275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.gmail.com/" target="_blank"><img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=c71610"></a>
+</div>
+
 ## Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
