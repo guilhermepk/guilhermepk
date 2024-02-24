@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilhermepk&show_icons=true&count_private=true&hide_border=true&title_color=ED092C&icon_color=ED092C&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Prigol Kramer's Github Stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepk&layout=compact&hide_border=true&title_color=E8004F&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepk&layout=compact&hide_border=true&title_color=ED092C&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 ## Languages
@@ -47,8 +47,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED092C&height=120&section=footer"/>
 
-<!--
-**guilhermepk/guilhermepk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **guilhermepk/guilhermepk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -60,4 +60,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
