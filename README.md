@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED092C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ED092C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Prigol+Kramer;I'm+18+years+old;I'm+from+Paraná+-+Brazil+;I+study+Information+Technology;AKA+Systems+Analysis+And+Development+at+IFPR;Feel+Welcome!+:%29)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ED092C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Prigol+Kramer;I'm+18+years+old;I'm+from+Paraná+-+Brazil+;I+study+Information+Technology;AKA+Systems+Analysis+And+Development+at+IFPR;Feel+Welcome!+:%29)
 
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilhermepk&show_icons=true&count_private=true&hide_border=true&title_color=ED092C&icon_color=ED092C&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Prigol Kramer's Github Stats" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepk&layout=compact&hide_border=true&title_color=ED092C&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilhermepk&&bg_color=0d1117&color=ED092C&line=ED092C&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilhermepk&&bg_color=0d1117&color=ED092C&line=ED092C&point=ff9494&area=true&hide_border=true)
 
 <div id="contatos" align="center">  
 <a href="guilhermeprigolkramer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
