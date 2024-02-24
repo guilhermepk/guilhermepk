@@ -19,7 +19,8 @@
 <div align="center">  
 <a href="guilhermeprigolkramer@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guilherme-prigol-kramer-b4a0b6275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.gmail.com/" target="_blank"><img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=c71610"></a>
+<br></br>
+<img src="https://img.shields.io/badge/guilhermeprigolkramer@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=c71610">
 </div>
 
 ## Languages
