@@ -47,7 +47,7 @@
 ## Others
 ![Arduino](https://img.shields.io/badge/arduino-038C8C?style=for-the-badge&logo=arduino&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&Color=white&logoColor=black)
-  
+![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&Color=white&logoColor=EF5B25)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED092C&height=120&section=footer"/>
 
