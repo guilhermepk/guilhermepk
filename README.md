@@ -29,6 +29,7 @@
 ## Back-End
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&Color=white&logoColor=EF5B25)
 
 ## Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,7 +48,6 @@
 ## Others
 ![Arduino](https://img.shields.io/badge/arduino-038C8C?style=for-the-badge&logo=arduino&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&Color=white&logoColor=black)
-![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&Color=white&logoColor=EF5B25)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED092C&height=120&section=footer"/>
 
