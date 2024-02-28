@@ -27,13 +27,13 @@
 ![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&Color=white&logoColor=white)
 
 ## Back-End
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&Color=white&logoColor=EF5B25)
 ![Insomnia](https://img.shields.io/badge/insomnia-white?style=for-the-badge&logo=insomnia&Color=white&logoColor=4000bf)
 
 ## Front-end
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React JS](https://img.shields.io/badge/React%20js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Web Design
 ![Figma](https://img.shields.io/badge/-Figma-242529?style=for-the-badge&logo=figma&logoColor=FF7262)
