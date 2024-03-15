@@ -36,6 +36,7 @@
 
 ## Front-end
 ![React JS](https://img.shields.io/badge/React%20js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-9575CD?style=for-the-badge&logo=vite&logoColor=FBC02D)
 
 ## Web Design
 ![Figma](https://img.shields.io/badge/-Figma-242529?style=for-the-badge&logo=figma&logoColor=FF7262)
