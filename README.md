@@ -18,9 +18,11 @@
 </a>
 </div>
 
-## Languages
+## Main Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Other Languages
 ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)
 ![HTML5](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&Color=white&logoColor=white)
