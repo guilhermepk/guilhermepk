@@ -24,15 +24,15 @@
 
 ## Other Languages
 ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
-<!-- ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117) -->
 ![HTML5](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&Color=white&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-264de4?style=for-the-badge&logo=css3&Color=white&logoColor=white)
+<!-- ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117) -->
 
 ## Back-End
 ![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&Color=white&logoColor=EF5B25)
 ![Insomnia](https://img.shields.io/badge/insomnia-white?style=for-the-badge&logo=insomnia&Color=white&logoColor=4000bf)
+<!-- ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
 
 ## Front-end
 ![React JS](https://img.shields.io/badge/React%20js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
