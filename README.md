@@ -2,13 +2,13 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ED092C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Prigol+Kramer;I+was+born+in+2005;I'm+from+Paraná+-+Brazil+;I+study+Information+Technology;AKA+Systems+Analysis+And+Development+at+IFPR;Feel+Welcome!+:%29)
 
+<div align="center"><br>
+  <img alt="Pikachu" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/96/6e/ac/966eacce964aa8003d6eb07d03c71342.gif">
+</div>
+
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilhermepk&show_icons=true&count_private=true&hide_border=true&title_color=ED092C&icon_color=ED092C&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Prigol Kramer's Github Stats" /> 
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepk&layout=compact&hide_border=true&title_color=ED092C&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center"><br>
-  <img alt="Pikachu" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/96/6e/ac/966eacce964aa8003d6eb07d03c71342.gif">
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilhermepk&&bg_color=0d1117&color=ED092C&line=ED092C&point=ff9494&area=true&hide_border=true)
