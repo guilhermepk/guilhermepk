@@ -42,9 +42,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-242529?style=for-the-badge&logo=figma&logoColor=FF7262)
 
 ## Databases
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/Maria%20DB-003545?style=for-the-badge&logo=mariadb)
 
 ## Game Development
 ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-FFFFFF?style=for-the-badge&logo=godotengine&logoColor=0b8384)
