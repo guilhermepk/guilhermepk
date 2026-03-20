@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED092C&height=120&section=header"/>
-
 <p> Hello, my name is Guilherme.
 I'm a software developer and have a degree in Systems Analysis and Development.
 Welcome to my GitHub! </p>
@@ -48,8 +46,6 @@ Welcome to my GitHub! </p>
 <div align="center"><br>
   <img alt="Pikachu" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/96/6e/ac/966eacce964aa8003d6eb07d03c71342.gif">
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ED092C&height=120&section=footer"/>
 
 
 <!-- **guilhermepk/guilhermepk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
