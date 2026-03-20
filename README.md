@@ -13,24 +13,28 @@ Welcome to my GitHub! </p>
 
 ## Back-End
 ![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeORM](https://img.shields.io/badge/typeorm-FFFFFF?style=for-the-badge&logo=typeorm&logoColor=FE0A02)
+![Prisma](https://img.shields.io/badge/prisma-02364E?style=for-the-badge&logo=prisma&logoColor=FFFFFF)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <!-- ![Postman](https://img.shields.io/badge/postman-white?style=for-the-badge&logo=postman&Color=white&logoColor=EF5B25) -->
 <!-- ![Insomnia](https://img.shields.io/badge/insomnia-white?style=for-the-badge&logo=insomnia&Color=white&logoColor=4000bf) -->
-<!-- ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
+
+## Databases
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Front-end
 ![React JS](https://img.shields.io/badge/React%20js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-9575CD?style=for-the-badge&logo=vite&logoColor=FBC02D)
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-030712?style=for-the-badge&logo=tailwindcss&logoColor=00bbff)
 
-## Databases
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ## Main Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Other Languages
+## Others
 ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Docker](https://img.shields.io/badge/docker-FEFEFE?style=for-the-badge&logo=docker&logoColor=0090E1)
+![FastAPI](https://img.shields.io/badge/fastapi-FAFDFD?style=for-the-badge&logo=fastapi&logoColor=009688)
 <!-- ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117) -->
 
 <!-- ## Web Design -->
